@@ -1,1 +1,1 @@
-This is my notes of Git and GitHub.
+# This is my notes of Git and GitHub
