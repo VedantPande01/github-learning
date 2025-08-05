@@ -16,9 +16,12 @@ This repository documents my learning journey with Git and GitHub, including cor
 - Collaboration workflows (pull requests, forks).
 - Best practices and command references.
 
-## 📂 Structure
-
-Each folder represents a day or topic of learning:
+<pre> ## 📁 Project Structure <br>
+  📁github-learning/
+  ├── 📄README.md  
+  ├── 📄git-githubnotes.md
+  ├── 📄cheatsheet.md
+</pre>
 
 ## 🚀 Goal
 
