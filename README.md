@@ -19,7 +19,7 @@ This repository documents my learning journey with Git and GitHub, including cor
 <pre> ## 📁 Project Structure <br>
   📁github-learning/
   ├── 📄README.md  
-  ├── 📄git-githubnotes.md
+  ├── 📄git-github.md
   ├── 📄cheatsheet.md
 </pre>
 
